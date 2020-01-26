@@ -3,4 +3,4 @@
 
 2019.12.31 start to study Python and PyCharm
 
-2020.01.13 start to study Python and PyCharm
+2020.01.13 start to study Git and SourceTree
