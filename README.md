@@ -6,4 +6,4 @@
 
 2020.01.13 start to study Git
 
-2024.12.30 start to study Golang
+2023.12.30 start to study Golang
